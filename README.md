@@ -17,7 +17,6 @@ Which variables are significant in predicting the demand for shared bikes. How w
 * [Data Sets Used](#data-sets-used)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
